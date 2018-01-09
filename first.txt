@@ -3,3 +3,5 @@ My first git-hun file. Working on tutorials, this is the master
 Adding more lines to test how branching works.
 
 Now adding more and making this as branch2.
+
+adding third line lets c
